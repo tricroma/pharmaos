@@ -1,5 +1,5 @@
-export const WebsiteName: string = "SaaS Starter"
+export const WebsiteName: string = "PharmaOS"
 export const WebsiteBaseUrl: string = "https://saasstarter.work"
 export const WebsiteDescription: string =
-  "Open source, fast, and free to host SaaS template. Built with SvelteKit, Supabase, Stripe, Tailwind, DaisyUI, and Postgres"
+  "PharmaOS - Sharma Medical Store ka Mini Health Hub - VIP Health Pass, NABL Lab Test aur Health Vault."
 export const CreateProfileStep: boolean = true

@@ -96,17 +96,16 @@
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
       <a
         class="link link-hover my-1"
-        href="https://github.com/CriticalMoments/CMSaasStarter">Github</a
+        href="https://github.com/tricroma/pharmaos"
       >
     </nav>
     <aside>
-      <span class="footer-title opacity-80">Sponsor</span>
-      <a class="max-w-[260px]" href="https://getkiln.ai">
-        <div class="font-bold text-3xl mb-1">Kiln AI</div>
-        <div class="font-medium mb-3">Build High Quality AI Products</div>
+      <span class="footer-title opacity-80">PharmaOS</span>
+      <a class="max-w-[260px]" href="/">
+        <div class="font-bold text-3xl mb-1">PharmaOS</div>
+        <div class="font-medium mb-3">Sharma Medical Store, Jamshedpur</div>
         <div class="font-light">
-          Use advanced AI tactics, and collaborate with your team. Free apps for
-          Mac and Windows.
+          Chemist ko Cash nahi, SaaS Credit milta hai. Report pehle Lock hoti hai, phir save hoti hai.
         </div>
         <div class="link text-sm font-bold mt-2">Learn More</div>
       </a>
